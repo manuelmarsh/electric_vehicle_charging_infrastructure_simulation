@@ -1,5 +1,6 @@
 # electric_vehicle_charging_infrastructure_simulation
 Simulation environment to validate Electric Vehicle Charging Optimization Algorithms, focusing on DC Fast Charging Infrastructure.
+Project made as a Bachelor's thesis internship in Socomec (Sicon SRL) company.
 
 # Project Requirements and Execution
 
