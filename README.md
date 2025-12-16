@@ -23,4 +23,4 @@ Execute the main simulation script using the following command:
 ## Note on Simulation Parameters
 To modify the simulation parameters:
 - Create a new Excel file containing the updated input data.
-- Update the input_file_path variable in the main script so it points to the new Excel file.
+- Update the input_file_path variable in the main script (evci_simulation.py) so it points to the new Excel file.
